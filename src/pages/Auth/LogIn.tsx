@@ -4,7 +4,7 @@ const LogIn = () => {
     <div className="h-screen flex ">
       <div className="hidden flex-1 lg:block ">
         <img
-          src="/assets/images/team-illustration.png"
+          src="/assets/images/team-Illustration.png"
           alt=""
           className="w-full  object-contain"
         />
